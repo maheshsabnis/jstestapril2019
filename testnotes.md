@@ -172,4 +172,6 @@ Testing REST APIs
    1. The Node.js based framework to run 'chai' test on Command Line
    2.  npm install -g mocha
    3.  mocha <Test-File> provided the REST API server is running
+   
+ npm install -g nodemon
 
